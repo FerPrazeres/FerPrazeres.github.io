@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ferprazeres.github.io/al-folio/sitemap.xml
+Sitemap: https://ferprazeres.github.ioblank/sitemap.xml
